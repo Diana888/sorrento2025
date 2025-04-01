@@ -1,7 +1,7 @@
 ---
 title: "Causality and complex systems"
 layout: multitrack
-organizer_url: ""
+organizer_url:
 categories:
   - dali2025
 organizers:
@@ -13,7 +13,7 @@ room: "tbd"
 show_abstracts: false 
 # Workshop Schedule
 talks:
-- title: "Learning to act in noisy contexts using deep proxy learning."
+- title: "Learning to act in noisy contexts using deep proxy learning. "
   author: # Changed from 'authors' to 'speaker' (single object)
     given: Arthur
     family: Gretton
@@ -22,11 +22,11 @@ talks:
   start: "10:00"
   end: "11:00"
     
-- title: Coffee break
+- title: Coffee break 
   start: "11:00"
   end: "11:30"
 
-- title: TBD
+- title: TBD 
   author:
     - given: Isabel
       family: Valera
@@ -39,7 +39,7 @@ talks:
   start: "12:30"
   end: "14:00"
 
-- title: TBD
+- title: TBD 
   author:
     - given: Silvia
       family: Chiappa
@@ -48,7 +48,7 @@ talks:
   start: "14:00"
   end: "15:00"
 
-- title: TBD
+- title: TBD 
   author:
     - given: Francesco
       family: Locatello # Corrected name - PLEASE VERIFY THIS IS CORRECT
@@ -57,7 +57,7 @@ talks:
   start: "15:00"
   end: "16:00"
 
-- title: "Panel: Future Directions in Causality Research"
+- title: "Panel: Future Directions in Causality Research "
   # List of panelists
   # author:
   #   - given: Arthur
