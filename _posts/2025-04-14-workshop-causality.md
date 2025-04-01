@@ -12,60 +12,59 @@ organizers:
 room: "tbd"
 show_abstracts: false 
 # Workshop Schedule
-schedule:
-  - title: "Learning to act in noisy contexts using deep proxy learning."
-    author: # Changed from 'authors' to 'speaker' (single object)
-      given: Arthur
-      family: Gretton
+talks:
+- title: "Learning to act in noisy contexts using deep proxy learning."
+  author: # Changed from 'authors' to 'speaker' (single object)
+    given: Arthur
+    family: Gretton
       # url: "https://www.gatsby.ucl.ac.uk/~gretton/"
       # affiliation: "Gatsby Unit, UCL & Google DeepMind"
-    start: "10:00"
-    end: "11:00"
+  start: "10:00"
+  end: "11:00"
     
-  - title: Coffee break
-    start: "11:00"
-    end: "11:30"
+- title: Coffee break
+  start: "11:00"
+  end: "11:30"
 
-  - title: TBD
-    author:
-      - given: Isabel
-        family: Valera
-        # url: https://ivaleram.github.io/
-        # affiliation: "MPI-IS"
-    start: "11:30"
-    end: "12:30"
+- title: TBD
+  author:
+    - given: Isabel
+      family: Valera
+      # url: https://ivaleram.github.io/
+      # affiliation: "MPI-IS"
+  start: "11:30"
+  end: "12:30"
 
-  - title: "Lunch break"
-    start: "12:30"
-    end: "14:00"
+- title: "Lunch break"
+  start: "12:30"
+  end: "14:00"
 
-  - title: TBD
-    author:
-      - given: Silvia
-        family: Chiappa
-        # url: https://csilviavr.github.io/
-        # affiliation: "Google DeepMind"
-    start: "14:00"
-    end: "15:00"
+- title: TBD
+  author:
+    - given: Silvia
+      family: Chiappa
+      # url: https://csilviavr.github.io/
+      # affiliation: "Google DeepMind"
+  start: "14:00"
+  end: "15:00"
 
-  - title: TBD
-    author:
-      - given: Francesco
-        family: Locatello # Corrected name - PLEASE VERIFY THIS IS CORRECT
-        # url: https://www.francescolocatello.com/
-        # affiliation: "ISTA"
-    start: "15:00"
-    end: "16:00"
+- title: TBD
+  author:
+    - given: Francesco
+      family: Locatello # Corrected name - PLEASE VERIFY THIS IS CORRECT
+      # url: https://www.francescolocatello.com/
+      # affiliation: "ISTA"
+  start: "15:00"
+  end: "16:00"
 
-
-  - title: "Panel: Future Directions in Causality Research"
-    # List of panelists
-    # author:
-    #   - given: Arthur
-    #     family: Gretton
-    #   - given: Isabel
-    #     family: Valera
-    #   - ...
-    start: "16:00"
-    end: "16:30"
+- title: "Panel: Future Directions in Causality Research"
+  # List of panelists
+  # author:
+  #   - given: Arthur
+  #     family: Gretton
+  #   - given: Isabel
+  #     family: Valera
+  #   - ...
+  start: "16:00"
+  end: "16:30"
 ---
