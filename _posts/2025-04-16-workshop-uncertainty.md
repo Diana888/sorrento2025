@@ -12,6 +12,7 @@ organizers:
 - given: Diana
   family: Robinson
 room: Turchese
+talks:  
 -title: "Introduction to Case Studies"
   start: "9:30"
   end: "9:40"
@@ -26,18 +27,18 @@ room: Turchese
   end: "11:00"
   author:
   - given: Yulan
-  family: He
+    family: He
 -title: "Coffee Break"
-start: "11:00"
-end: "11:30"
+  start: "11:00"
+  end: "11:30"
 -title: "Discussion of Case Studies"
-start: "11:30"
-end: "13:00"
+  start: "11:30"
+  end: "13:00"
 -title: "Lunch"
-start: "13:00"
-end: "14:30"
+  start: "13:00"
+  end: "14:30"
 -title: "Final Discussion and Closing"
-start: "14:30"
-end: "15:30"
+  start: "14:30"
+  end: "15:30"
 show_abstracts: false
 ---
